@@ -1,0 +1,8 @@
+{
+    "dataOne":{
+        "city":["Nantes", "Rennes", "Lorient"]
+    },
+    "dataTwo":{
+        "city":"Rennes"
+    }
+}
